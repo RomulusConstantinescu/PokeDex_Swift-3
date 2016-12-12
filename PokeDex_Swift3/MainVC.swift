@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainVC.swift
 //  PokeDex_Swift3
 //
 //  Created by Romulus Constantinescu on 12/12/2016.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
